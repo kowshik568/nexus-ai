@@ -1,0 +1,100 @@
+{
+  "users": {
+    "default-user": {
+      "conversations": {
+        "conv-1791778797985-v7eiv": {
+          "id": "conv-1791778797985-v7eiv",
+          "title": "New Chat",
+          "createdAt": 1791778797985,
+          "updatedAt": 1791778797985,
+          "model": "gemini-3.8-flash",
+          "webSearchEnabled": true,
+          "messages": []
+        }
+      },
+      "memories": [
+        {
+          "id": "mem-initial-1",
+          "fact": "User prefers concise, code-first answers with step-by-step explanations for complex problems.",
+          "category": "preference",
+          "createdAt": 1791778547424,
+          "updatedAt": 1791778547424
+        }
+      ],
+      "settings": {
+        "theme": "dark",
+        "defaultModel": "gemini-3.8-flash",
+        "enableMemory": true,
+        "enableWebSearch": true,
+        "temperature": 0.7
+      }
+    },
+    "test-user-alice-123": {
+      "conversations": {},
+      "memories": [
+        {
+          "id": "mem-1791780997821-init",
+          "fact": "User prefers concise, code-first answers with step-by-step explanations for complex problems.",
+          "category": "preference",
+          "createdAt": 1791780997821,
+          "updatedAt": 1791780997821
+        }
+      ],
+      "settings": {
+        "theme": "dark",
+        "defaultModel": "gemini-3.8-flash",
+        "enableMemory": true,
+        "enableWebSearch": true,
+        "temperature": 0.7
+      }
+    },
+    "test-user-bob-456": {
+      "conversations": {},
+      "memories": [
+        {
+          "id": "mem-1791780997825-init",
+          "fact": "User prefers concise, code-first answers with step-by-step explanations for complex problems.",
+          "category": "preference",
+          "createdAt": 1791780997825,
+          "updatedAt": 1791780997825
+        }
+      ],
+      "settings": {
+        "theme": "dark",
+        "defaultModel": "gemini-3.8-flash",
+        "enableMemory": true,
+        "enableWebSearch": true,
+        "temperature": 0.7
+      }
+    },
+    "usr_1791781059568_xwv0vka": {
+      "conversations": {
+        "conv-1791781062489-oc9z5": {
+          "id": "conv-1791781062489-oc9z5",
+          "title": "New Chat",
+          "createdAt": 1791781062489,
+          "updatedAt": 1791781062489,
+          "model": "gemini-3.8-flash",
+          "webSearchEnabled": true,
+          "messages": []
+        }
+      },
+      "memories": [
+        {
+          "id": "mem-1791781062371-init",
+          "fact": "User prefers concise, code-first answers with step-by-step explanations for complex problems.",
+          "category": "preference",
+          "createdAt": 1791781062371,
+          "updatedAt": 1791781062371
+        }
+      ],
+      "settings": {
+        "theme": "dark",
+        "defaultModel": "gemini-3.1-flash-lite",
+        "enableMemory": true,
+        "enableWebSearch": true,
+        "temperature": 0.7
+      }
+    }
+  }
+}

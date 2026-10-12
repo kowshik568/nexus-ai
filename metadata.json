@@ -1,0 +1,6 @@
+{
+  "name": "Nexus AI",
+  "description": "A complete, personal AI assistant powered by Gemini with search grounding, document intelligence, multimodal understanding, and persistent conversations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
